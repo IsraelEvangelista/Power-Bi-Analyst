@@ -28,13 +28,30 @@ Ex: data de oferta das disciplinas, data de oferta dos cursos, entre outros. O f
 
 ______________________________________________________________________________________________________________________________________________
 
-## Passo 01 – Criação da instância Azure DB
+## Passo 01 – Criação do modelo padrão
 
-Para persistir os dados do BD “Company”, foi instanciado o banco de dados “desafio-projeto-company” na plataforma Azure. Em seguida, foi baixado o certificado SSL para uso de conexão com o MySQL Workbench, e por fim, estabelecida conexão da Azure com o Power BI e coleta dos dados.
+Criação no Software Workbench o modelo padrão proposto no desafio
 
+![image](https://user-images.githubusercontent.com/116984176/214466941-45889125-7b5c-4a3f-9159-4c147a483ab3.png)
 
-## Passo 02 – Formatando os Dados
+## Passo 02 – Etapas de modelagem
 
+Foi usada a metodologia de abstração das informações do dataset proposto de redimensionamento das tabelas para arquitetar tabelas dimensões com adição da tabela "data" e a tabela fato "professor".
 
-## Passo 03 – Transformando Tabelas
+- Tabela-fato: "Professor" pois possui informações numéricas sobre os professores, como número de disciplinas ministradas. As outras tabelas foram convertidas em tabelas-dimensão;
+
+- A tabela "Departamento" foi usada como uma tabela-dimensão, pois contém informações descritivas sobre os professores, como o nome e o campus do departamento;
+
+- A tabela "Disciplina" também foi usada como uma tabela-dimensão, pois contém informações descritivas sobre as disciplinas ministradas pelos professores;
+
+- Foi incluído a tabela-dimensão "Data" com atributos data, dia, semana, mês, trimestre e ano;
+
+- A tabela "Curso" foi usada como uma tabela-dimensão, pois contém informações descritivas sobre os cursos relacionados aos departamentos;
+
+- A tabela "Aluno" e "Matriculado" não é necessário para o Star Schema proposto.
+
+## Passo 03 – Resultado Star Schema - Universidade
+
+![image](https://user-images.githubusercontent.com/116984176/214468270-ce3a75e7-f842-466a-ab1d-b5e3e2dd4d17.png)
+
 
