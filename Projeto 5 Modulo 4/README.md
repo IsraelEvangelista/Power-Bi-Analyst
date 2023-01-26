@@ -48,19 +48,19 @@ A Tabela dimensão data foi criada a partir da data base e usada a fórmula DAX 
 
 _Coluna Month Number_
 
-Number.From(
-    Date.Month([Date])
-)
+    Number.From(
+        Date.Month([Date])
+    )
 
 _Coluna Month Name_
 
-Date.MonthName([Date])
+    Date.MonthName([Date])
 
 _Coluna Year_
 
-Number.From(
-    Date.Year([Date])
-)
+    Number.From(
+        Date.Year([Date])
+    )
 
 **D_Categoria**
 
