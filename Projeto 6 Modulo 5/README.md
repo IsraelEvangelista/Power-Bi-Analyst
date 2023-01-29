@@ -1,9 +1,9 @@
 <picture> <img align="left" src="https://hermes.digitalinnovation.one/tracks/b9b2973e-b2be-4bf0-b6b2-57a6c8354a95.png" width = 80px></picture> 
-# Projeto 5
+# Projeto 6
 
 ## Instruções de Entrega do Desafio
 
-**Descrição do Projeto Desafio 5 – Atualizando Relatório no Power BI com Foco na Experiência do Usuário**
+**Descrição do Projeto Desafio 6 – Atualizando Relatório no Power BI com Foco na Experiência do Usuário**
 
 **Objetivo:**
 
