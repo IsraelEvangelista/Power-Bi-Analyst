@@ -27,5 +27,7 @@ ________________________________________________________________________________
 
 Foi escolhido o visual "Tabela Matriz" para utilizar o recurso de parâmetros, pela grande dinamicidade possível de combinações entre as informações de linhas e colunas.
 
+![image](https://user-images.githubusercontent.com/116984176/216219203-909db865-9278-4b01-9934-c44012a6cf99.png)
 
+[Link para download do arquivo Power BI in Power Point](https://github.com/IsraelEvangelista/Power-Bi-Analyst/blob/main/Projeto%207%20Modulo%205/Projeto%20DIO%20_%20Projeto%20Data%20Analytics.pptx)
 
