@@ -90,3 +90,6 @@ Nesta etapa, o relatório foi publicado no workspace e gerado um PDF e Power Poi
 [Link para arquivo em PDF](https://github.com/IsraelEvangelista/Power-Bi-Analyst/blob/main/Projeto%206%20Modulo%205/Projeto%20Elegante%20Atualizado.pdf)
 
 [Link para arquivo Power Point](https://github.com/IsraelEvangelista/Power-Bi-Analyst/blob/main/Projeto%206%20Modulo%205/Projeto%20-%20Relat%C3%B3rio%20Elegante%20Atualizado.pptx)
+
+*Publicado na Web
+[Link para visualização](https://app.powerbi.com/view?r=eyJrIjoiOWY2NTk4Y2ItMDc1My00ZDhkLWI1MjktZTEyODk3YTFhYjY1IiwidCI6IjdjZWZiZWRhLWRjMmQtNGQ4Mi05ZThlLTg0NDA1MDRkNTk1NCJ9)
