@@ -63,3 +63,7 @@ Mais uma página proposta na criação do desafio. Nesta, foram persistidos visu
 Segue abaixo relatório publicado no workspace a partir do Power Point:
 
 [Relatório Power BI in Power Point](https://github.com/IsraelEvangelista/Power-Bi-Analyst/blob/main/Projeto%207%20Modulo%205/Projeto%20DIO%20_%20Projeto%20Data%20Analytics.pptx)
+
+Abaixo, acesso à publicação na web do relatório BI:
+
+[Visualização do Relatório BI na Web](https://app.powerbi.com/view?r=eyJrIjoiMGVjNGMyMDgtM2Q1OC00YTI5LThkYmQtMjI2ZGNlYjEwOGExIiwidCI6IjdjZWZiZWRhLWRjMmQtNGQ4Mi05ZThlLTg0NDA1MDRkNTk1NCJ9)
