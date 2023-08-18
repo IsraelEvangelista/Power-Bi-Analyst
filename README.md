@@ -20,7 +20,11 @@ ________________________________________________________________________________
 
 _Link para página do repositório para download do arquivo Power Point do Projeto_
 
-[Primeiro Projeto - Power BI](https://github.com/IsraelEvangelista/Power-Bi-Analyst/blob/main/Analisando%20Dados%20com%20meu%20Primeiro%20Projeto%20no%20Power%20BI/Projeto%20Desafio%20-%20Primeiro%20Projeto%20no%20Power%20BI.pptx)
+[Primeiro Projeto - Power Point](https://github.com/IsraelEvangelista/Power-Bi-Analyst/blob/main/Analisando%20Dados%20com%20meu%20Primeiro%20Projeto%20no%20Power%20BI/Projeto%20Desafio%20-%20Primeiro%20Projeto%20no%20Power%20BI.pptx)
+
+_Caso haja problemas para visualização do arquivo power point, segue abaixo link de acesso ao relatório publicado na web_
+
+[Primeiro Projeto - Publicado na Web](https://app.powerbi.com/view?r=eyJrIjoiMjc3NTY5YWQtOWMyYy00YmI3LWI2MDUtMTQ1MmI4MGIzMGFkIiwidCI6IjdjZWZiZWRhLWRjMmQtNGQ4Mi05ZThlLTg0NDA1MDRkNTk1NCJ9)
 
 Sobre o projeto:
 
