@@ -31,3 +31,5 @@ Foi escolhido o visual "Tabela Matriz" para utilizar o recurso de parâmetros, p
 
 [Link para download do arquivo Power BI in Power Point](https://github.com/IsraelEvangelista/Power-Bi-Analyst/blob/main/Projeto%207%20Modulo%205/Projeto%20DIO%20_%20Projeto%20Data%20Analytics.pptx)
 
+*Caso o arquivo Power Point esteja com problemas, acessar link de visualização na web
+[Link para visualização na Web](https://app.powerbi.com/view?r=eyJrIjoiMGVjNGMyMDgtM2Q1OC00YTI5LThkYmQtMjI2ZGNlYjEwOGExIiwidCI6IjdjZWZiZWRhLWRjMmQtNGQ4Mi05ZThlLTg0NDA1MDRkNTk1NCJ9)
