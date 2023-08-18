@@ -188,4 +188,6 @@ Arquivo Power Point integrado ao relatório Power BI - Company
 
 [Link para Download](https://github.com/IsraelEvangelista/Power-Bi-Analyst/raw/main/Projeto%203%20Modulo%203/Projeto_Company.pptx)  
 
+Página de visualização do relatório BI publicado na WEB (Caso hajam problemas de acesso ao arquivo Power Point)
 
+[Link para Visualização](https://app.powerbi.com/view?r=eyJrIjoiZmQxMWIxNTMtZDM2MC00NThkLTg3YWQtNjdiNjExZTViMGYwIiwidCI6IjdjZWZiZWRhLWRjMmQtNGQ4Mi05ZThlLTg0NDA1MDRkNTk1NCJ9)
