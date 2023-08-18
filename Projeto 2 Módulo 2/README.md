@@ -19,3 +19,7 @@ ________________________________________________________________________________
 ## Acesso para arquivo Power Point integrado ao relatório Power BI
 
 [Link de Acesso](https://github.com/IsraelEvangelista/Power-Bi-Analyst/raw/main/Projeto%202%20M%C3%B3dulo%202/Projeto%202%20-%20Relat%C3%B3rio%20Elegante.pptx)
+
+## Acesso a visualização do relatório BI publicado na WEB
+
+[Link de Acesso](https://app.powerbi.com/view?r=eyJrIjoiNTVjOTMzOTItYTA3OC00ZTgyLWIwOTgtOGZmYTNmNmQxYmExIiwidCI6IjdjZWZiZWRhLWRjMmQtNGQ4Mi05ZThlLTg0NDA1MDRkNTk1NCJ9)
